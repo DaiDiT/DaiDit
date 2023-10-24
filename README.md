@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is **Darryl Naufal Ardiaz**.
-I'm a undergraduate student of Informatics Engineering at State Islamic of Sunan Gunung Djati Bandung.
+I'm an undergraduate student of Informatics Engineering at State Islamic of Sunan Gunung Djati Bandung.
 
 ### Github Statistic
 <p align="left">
