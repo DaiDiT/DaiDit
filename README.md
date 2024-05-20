@@ -1,21 +1,29 @@
-### Hi there 👋
-### My name is **Darryl Naufal Ardiaz**.
-I'm an undergraduate student of Informatics Engineering at State Islamic of Sunan Gunung Djati Bandung.
+# Welcome to My Repository! 🌟
 
-### Github Statistic
-<p align="left">
-  <a href="https://github.com/gilangadhan">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaiDit&layout=compact&langs_count=8&theme=buefy"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaiDit&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+
+## Hello Everyone! 👋
+Let me introduce myself, my name is **Darryl Naufal Ardiaz**. I'm passionate about programming and software development. If you'd like to get to know me better or collaborate, feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/darrylna/) account.
+
+
+## 💻 My Stacks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,expressjs,html,css,js,php,bootstrap,androidstudio,kotlin,flutter,git,vscode,postgres,mysql,mongodb&perline=20" />
   </a>
 </p>
 
-### 🔍 You Can Find Me at 
-<p> 
-  <a href="https://www.linkedin.com/in/darrylna/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/odlicode/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-</p>
+## 🔥 Github Stats
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/daidit"><img src="https://github-readme-stats.vercel.app/api?username=daidit&theme=radical&title_color=ff3068" width="100%" /></a></td>
+    <td align="center"><a href="https://github.com/daidit"><img src="http://github-readme-streak-stats.herokuapp.com/?user=daidit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="100%" /></a></td>
+  </tr>
+</table>
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daidit&theme=github)](https://github.com/daidit)
+    
+Thank you for visiting my repository! Feel free to explore my projects and let me know if there's anything I can assist you with. Have a great day! ✨
