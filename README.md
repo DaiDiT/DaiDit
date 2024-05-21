@@ -1,5 +1,6 @@
 # Welcome to My Repository! 🌟
 
+<img height="100%" width="100%" src="https://cdn.dribbble.com/users/3680841/screenshots/6880658/pikachu_dribble_gif.gif"/>
 
 ## Hello Everyone! 👋
 Let me introduce myself, my name is **Darryl Naufal Ardiaz**. I'm passionate about programming and software development. If you'd like to get to know me better or collaborate, feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/darrylna/) account.
