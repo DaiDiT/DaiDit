@@ -10,7 +10,7 @@ Let me introduce myself, my name is **Darryl Naufal Ardiaz**. I'm passionate abo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,expressjs,html,css,js,php,bootstrap,androidstudio,kotlin,flutter,git,vscode,postgres,mysql,mongodb&perline=20" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,expressjs,html,css,js,php,bootstrap,androidstudio,kotlin,flutter,git,vscode,postgres,mysql,mongodb,python&perline=20" />
   </a>
 </p>
 
