@@ -6,14 +6,14 @@
 </h1>
 
 ## Hello Everyone! 👋
-Let me introduce myself, my name is **Darryl Naufal Ardiaz**. I'm passionate about programming and software development. If you'd like to get to know me better or collaborate, feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/darrylna/) account.
+My name is **Darryl Naufal Ardiaz**. I'm passionate about programming and software development. If you'd like to get to know me better or collaborate, feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/darrylna/) account.
 
 
 ## 💻 My Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,expressjs,html,css,js,php,bootstrap,androidstudio,kotlin,flutter,git,vscode,postgres,mysql,mongodb,python&perline=20" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,expressjs,nestjs,html,css,js,bootstrap,androidstudio,kotlin,flutter,git,vscode,postgres,mysql,mongodb,python,php,javascript,typescript,postman&perline=20" />
   </a>
 </p>
 
