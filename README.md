@@ -62,7 +62,7 @@
 <br/>
 
 ## 🏆 Player Statistics
-<a href="https://github.com/daidit"><img src="http://github-readme-streak-stats.herokuapp.com/?user=daidit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="60%" /></a>
+<a href="https://github.com/daidit"><img src="http://github-readme-streak-stats.herokuapp.com/?user=daidit&date_format=M%20j%5B%2C%20Y%5D&background=2d0d3e&border=fbd100&stroke=fbd100&ring=fbd100&fire=fbd100&currStreakNum=fbd100&sideNums=fbd100&currStreakLabel=ffffff&sideLabels=ffffff&dates=a292bc&card_width=1000"/></a>
 
 ---
 
