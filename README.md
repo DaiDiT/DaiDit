@@ -13,9 +13,15 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Loading...;Game+is+Starting...;Game+Started" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Loading...;Game+is+Starting...;Welcome+Back+Player+!" alt="Typing SVG" />
 
 ---
+## 👤 Character Profile
+<p>
+  <b>Alias:</b> Darryl <br/>
+  <b>Class:</b> BE Dev | ML Eng <br/>
+  <b>Area:</b> IDN51
+</p>
 
 ## 📜 Current Quest
 <p>
