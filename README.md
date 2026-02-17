@@ -18,10 +18,15 @@
 ---
 ## 👤 Character Profile
 <p>
-  <b>Alias:</b> Darryl <br/>
-  <b>Class:</b> BE Dev | ML Eng <br/>
-  <b>Area:</b> IDN51
+
+| **Alias** | Darryl |
+|---:|:---|
+| **Class** | ![](https://img.shields.io/badge/Back--end-Developer-blue?style=flat-square) ![](https://img.shields.io/badge/ML-Engineer-orange?style=flat-square) |
+| **Area** | IDN51 |
+| **HP** | ![Progress Bar](https://geps.dev/progress/65) |
+| **MP** | ![Progress Bar](https://geps.dev/progress/20) |
 </p>
+
 
 ## 📜 Current Quest
 <p>
