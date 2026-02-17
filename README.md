@@ -6,6 +6,7 @@
 <p>
   <img alt="GIF" width = 20% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/cat_to_left.gif"/>
   <img alt="GIF" width = 20% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/pikachu_dribble_left.gif"/>
+  <img alt="GIF" width = 15% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/coins.gif"/>
   <img alt="GIF" width = 20% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/pikachu_dribble_right.gif"/>
   <img alt="GIF" width = 20% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/cat_to_right.gif"/>
 </p>
@@ -30,7 +31,7 @@
 
 ## 📜 Current Quest
 <p>
-  Welcome to my digital zone! I am on a mission to conquer the world of <b>programming</b> and <b>software development</b>.
+  Welcome aboard to my spaceship! I am on a mission to conquer the world of <b>programming</b> and <b>software development</b>.
   <br/>
   If you want to join the <b>party</b> or collaborate on a <b>side quest</b>, contact me via <a href="https://www.linkedin.com/in/darrylna">LinkedIn</a>.
 </p>
