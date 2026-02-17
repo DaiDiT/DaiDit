@@ -1,9 +1,11 @@
 # Welcome to My Repository! 🌟
 
 <h1 align="center">
-  <img alt="GIF" width = 300 src="https://github.com/DaiDiT/DaiDit/blob/main/pikachu_dribble.gif"/>
-  <img alt="GIF" width = 300 src="https://github.com/DaiDiT/DaiDit/blob/main/pikachu_dribble.gif"/>
-  <img alt="GIF" width = 300 src="https://github.com/DaiDiT/DaiDit/blob/main/pikachu_dribble.gif"/>
+  <img alt="GIF" width = 15% src="https://github.com/DaiDiT/DaiDit/blob/main/pikachu_dribble.gif"/>
+  <img alt="GIF" width = 15% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/cat_to_left.gif"/>
+  <img alt="GIF" width = 15% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/uiiaicat.gif"/>
+  <img alt="GIF" width = 15% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/cat_to_right.gif"/>
+  <img alt="GIF" width = 15% src="https://github.com/DaiDiT/DaiDit/blob/main/pikachu_dribble.gif"/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Honk&color=47A248&size=45&center=true&vCenter=true&width=250&height=70&duration=4050&lines=Pika+?;PIKA+PIKA!;Pikaaaachu;"/>
 </h1>
 
