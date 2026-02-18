@@ -11,20 +11,20 @@
   <img alt="GIF" width = 20% src="https://github.com/DaiDiT/DaiDit/blob/main/gifs/cat_to_right.gif"/>
 </p>
 <br/>
+<p>
+  <img alt="GIF" width = 8.4% src="https://img.pokemondb.net/sprites/black-white/anim/normal/arceus.gif"/>
+  <img alt="GIF" width = 13.2% src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif"/>
+  <img alt="GIF" width = 9.6% src="https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif"/>
+  <img alt="GIF" width = 4.3% src="https://img.pokemondb.net/sprites/black-white/anim/normal/kirlia.gif"/>
+  <img alt="GIF" width = 4.3% src="https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif"/>
+  <img alt="GIF" width = 6% src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif"/>
+  <img alt="GIF" width = 6% src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif"/>
+  <img alt="GIF" width = 9.5% src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif"/>
+  <img alt="GIF" width = 10.7% src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"/>
+  <img alt="GIF" width = 10.7% src="https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif"/>
+  <img alt="GIF" width = 12.3% src="https://img.pokemondb.net/sprites/black-white/anim/normal/giratina.gif"/>
+</p>
 
-
-
-[![Arceus](https://img.pokemondb.net/sprites/black-white/anim/normal/arceus.gif)](https://pokemondb.net/pokedex/arceus)
-[![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
-[![Dragonite](https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif)](https://pokemondb.net/pokedex/dragonite)
-[![Kirlia](https://img.pokemondb.net/sprites/black-white/anim/normal/kirlia.gif)](https://pokemondb.net/pokedex/kirlia)
-[![Torchic](https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif)](https://pokemondb.net/pokedex/torchic)
-[![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif)](https://pokemondb.net/pokedex/pikachu)
-[![Eevee](https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif)](https://pokemondb.net/pokedex/eevee)
-[![Gengar](https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif)](https://pokemondb.net/pokedex/gengar)
-[![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)](https://pokemondb.net/pokedex/charizard)
-[![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
-[![Giratina](https://img.pokemondb.net/sprites/black-white/anim/normal/giratina.gif)](https://pokemondb.net/pokedex/giratina)
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Loading...;Game+is+Starting...;Welcome+Back+Player+!" alt="Typing SVG" />
