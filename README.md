@@ -12,6 +12,19 @@
 </p>
 <br/>
 
+
+
+[![Arceus](https://img.pokemondb.net/sprites/black-white/anim/normal/arceus.gif)](https://pokemondb.net/pokedex/arceus)
+[![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
+[![Dragonite](https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif)](https://pokemondb.net/pokedex/dragonite)
+[![Kirlia](https://img.pokemondb.net/sprites/black-white/anim/normal/kirlia.gif)](https://pokemondb.net/pokedex/kirlia)
+[![Torchic](https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif)](https://pokemondb.net/pokedex/torchic)
+[![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif)](https://pokemondb.net/pokedex/pikachu)
+[![Eevee](https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif)](https://pokemondb.net/pokedex/eevee)
+[![Gengar](https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif)](https://pokemondb.net/pokedex/gengar)
+[![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)](https://pokemondb.net/pokedex/charizard)
+[![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
+[![Giratina](https://img.pokemondb.net/sprites/black-white/anim/normal/giratina.gif)](https://pokemondb.net/pokedex/giratina)
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Loading...;Game+is+Starting...;Welcome+Back+Player+!" alt="Typing SVG" />
