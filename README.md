@@ -80,5 +80,5 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Insert+Coin+to+Continue..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Game+Over+!;Try+Again+?;Insert+Coin+to+Continue..." alt="Typing SVG" />
 </div>
