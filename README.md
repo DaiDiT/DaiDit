@@ -15,11 +15,11 @@
   <img alt="GIF" width = 7.6% src="https://img.pokemondb.net/sprites/black-white/anim/normal/arceus.gif"/>
   <img alt="GIF" width = 11.9% src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif"/>
   <img alt="GIF" width = 8.7% src="https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif"/>
-  <img alt="GIF" width = 3.9% src="https://img.pokemondb.net/sprites/black-white/anim/normal/kirlia.gif"/>
+  <img alt="GIF" width = 8.6% src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif"/>
   <img alt="GIF" width = 3.9% src="https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif"/>
   <img alt="GIF" width = 5.4% src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif"/>
   <img alt="GIF" width = 5.4% src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif"/>
-  <img alt="GIF" width = 8.6% src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif"/>
+  <img alt="GIF" width = 3.9% src="https://img.pokemondb.net/sprites/black-white/anim/normal/kirlia.gif"/>
   <img alt="GIF" width = 9.7% src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"/>
   <img alt="GIF" width = 9.7% src="https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif"/>
   <img alt="GIF" width = 11.1% src="https://img.pokemondb.net/sprites/black-white/anim/normal/giratina.gif"/>
